@@ -1,1 +1,205 @@
-<mxfile host="www.draw.io" modified="2020-01-19T22:39:08.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="u2g7gtd3OEiGpFbj3AVb" version="12.5.5" type="github"><diagram name="Purchase budget" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">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</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2020-01-19T22:41:15.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="shKbDD6xcJiPLYxMRh0w" version="12.5.5" type="github">
+  <diagram name="Purchase budget" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="2062" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="77e6c97f196da883-1" value="Purchase data and revenue budget" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="960" height="750" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="Beginning Feb" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-8" value="Budget&amp;nbsp; timelines issued" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="20" y="120" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-2" value="Budget assumptions/ guidelines?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+          <mxGeometry x="20" y="230" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="yDKPRNA4TvCzjrigrHj2-8" value="Current Process" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="440" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yDKPRNA4TvCzjrigrHj2-9" value="Issues" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="480" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="yDKPRNA4TvCzjrigrHj2-10" value="Migrated &amp;amp; Tested" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="30" y="520" width="100" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" parent="77e6c97f196da883-1" source="77e6c97f196da883-8" target="77e6c97f196da883-11" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="107ba76e4e335f99-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" parent="77e6c97f196da883-1" source="77e6c97f196da883-17" target="77e6c97f196da883-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="280"/>
+              <mxPoint x="630" y="80"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="Base Budget" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="160" y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="77e6c97f196da883-11" target="77e6c97f196da883-9" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-11" value="MAT by Member (Std &amp;amp; Prem excl. LL) as at end of Jan&lt;br&gt;File:&amp;nbsp;AOP FYXX - 00_1 - Annualised data model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="150" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-9" value="Remove &quot;lost&quot; members" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="240" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-3" source="77e6c97f196da883-12" target="BSGmMYfluoc5-0ycnWwg-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="410"/>
+              <mxPoint x="80" y="410"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-12" value="Annualise numbers for new members&lt;br&gt;File: AOP FYXX - 00_1 - Annualised data model and&lt;br&gt;AOP FYXX - 00_2 - GM_State model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="320" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#000000;strokeWidth=1;fontFamily=Verdana;fontSize=8;fontColor=#000000;" parent="77e6c97f196da883-3" source="77e6c97f196da883-9" target="77e6c97f196da883-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-16" value="Output by State, Member, $ for the full year (Excel)&lt;br&gt;File:&amp;nbsp;LMG State - FYXX AOP inputs (separate state/HB file)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="410" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="4OYYeBLz-7N8v8GrSOVv-1" target="77e6c97f196da883-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="520"/>
+              <mxPoint x="10" y="195"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-1" value="Membership period&lt;br&gt;File: YYMMDD Date_Joined_EDW" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="490" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-3" source="4OYYeBLz-7N8v8GrSOVv-3" target="77e6c97f196da883-11" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-3" value="Member Banner&lt;br&gt;File: Member_Banner" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="40" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="Base + Adjustments" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="320" y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-4" source="77e6c97f196da883-15" target="BSGmMYfluoc5-0ycnWwg-18" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-15" value="GM&#39;s Review output&lt;br&gt;File: LMG State - FYXX AOP inputs (separate state/HB file)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="25" y="45" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-18" value="Adjust for:&lt;br&gt;New Members &amp;amp; their annual $ and date joined&lt;br&gt;Dates of members leaving&lt;br&gt;Adjust growth %&lt;br&gt;File:&amp;nbsp;FYXX AOP inputs" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="25" y="150" width="100" height="130" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-5" value="Access Model" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="480" y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-17" value="Run the access model&lt;br&gt;File:&amp;nbsp;AOP FYXX - 02 - Pro-rata model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d79b00;strokeWidth=1;fillColor=#ffe6cc;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="20" y="230" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-5" source="BSGmMYfluoc5-0ycnWwg-22" target="BSGmMYfluoc5-0ycnWwg-23" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-22" value="Run MAT L4L to get Category mix (High level - State, Banner, Supplier, Category by day)&lt;br&gt;File:&amp;nbsp;AOP FYXX - 01 - Pro-rata analysis model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="20" y="40" width="100" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-5" source="BSGmMYfluoc5-0ycnWwg-23" target="77e6c97f196da883-17" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-23" value="Adjust for Tuesdays and Easter Period&lt;br&gt;File:&amp;nbsp;AOP FYXX - 01 - Pro-rata analysis model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-5" vertex="1">
+          <mxGeometry x="20" y="137.5" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-6" value="PowerPivot Model" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="640" y="20" width="160" height="730" as="geometry">
+            <mxRectangle x="640" y="20" width="130" height="730" as="alternateBounds"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-21" value="Run powerPivot Model&lt;br&gt;File: AOP FYXX - 03 - Forecast model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="30" y="360" width="100" height="140" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="77e6c97f196da883-6" source="BSGmMYfluoc5-0ycnWwg-30" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="410" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="140" y="110"/>
+              <mxPoint x="140" y="395"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-30" value="Run Core R&amp;amp;R for Dec Qtr - This is to get brand essentials product mix and effective rate for Supplier &amp;amp; Category&lt;br&gt;File: XX12 Core R+R Calculation - Oct - Dec" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="30" y="70" width="100" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="77e6c97f196da883-6" source="BSGmMYfluoc5-0ycnWwg-33" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-33" value="Vol model Jan Month to calculate effective rate for Vol Revenue&lt;br&gt;File:&amp;nbsp;XX07 Volumetric Model" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-6" vertex="1">
+          <mxGeometry x="30" y="280" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="BSGmMYfluoc5-0ycnWwg-16" target="77e6c97f196da883-15" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="BSGmMYfluoc5-0ycnWwg-18" target="77e6c97f196da883-17" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;" parent="77e6c97f196da883-1" source="77e6c97f196da883-21" target="4OYYeBLz-7N8v8GrSOVv-7" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-7" value="Outputs" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="800" y="20" width="160" height="730" as="geometry"/>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-18" value="Data warehouse feed (only when budget is finalised)&lt;br&gt;File:&amp;nbsp;Z_02_CDL_Adj" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-7" vertex="1">
+          <mxGeometry x="20" y="30" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="77e6c97f196da883-7" source="4OYYeBLz-7N8v8GrSOVv-7" target="4OYYeBLz-7N8v8GrSOVv-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-7" value="Finance output - Excel report with various tabs&lt;br&gt;File: AOP FYXX - 03 - Forecast model (data only)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-7" vertex="1">
+          <mxGeometry x="20" y="400" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-12" value="Request for change (various iterations) and commence the cycle again" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="77e6c97f196da883-7" vertex="1">
+          <mxGeometry x="20" y="500" width="110" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;strokeWidth=2;" parent="77e6c97f196da883-1" source="4OYYeBLz-7N8v8GrSOVv-12" target="77e6c97f196da883-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="980" y="550"/>
+              <mxPoint x="980" y="45"/>
+              <mxPoint x="395" y="45"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.02;entryY=0.871;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="77e6c97f196da883-1" source="BSGmMYfluoc5-0ycnWwg-18" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="395" y="502"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.629;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" parent="77e6c97f196da883-1" source="77e6c97f196da883-17" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="468"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4OYYeBLz-7N8v8GrSOVv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;strokeWidth=1;" parent="77e6c97f196da883-1" source="4OYYeBLz-7N8v8GrSOVv-1" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FF0000;" parent="1" source="BSGmMYfluoc5-0ycnWwg-36" target="77e6c97f196da883-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="268"/>
+              <mxPoint x="720" y="455"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BSGmMYfluoc5-0ycnWwg-36" value="PWP Dec Qtr to get an effective rate by member - Apply avg rate to all members&lt;br&gt;File: XX12 PWP Calculation - Oct - Dec" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;fontFamily=Verdana;fontSize=8;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="740" y="237.5" width="100" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
